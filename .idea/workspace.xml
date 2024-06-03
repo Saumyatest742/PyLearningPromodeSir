@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0c546b4-88ab-44ce-bee5-9741a8106545" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyLearningPromodeSir.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Lab001.py" afterDir="false" />
+    <list default="true" id="e0c546b4-88ab-44ce-bee5-9741a8106545" name="Changes" comment="Adding to GIT">
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Lab002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Saumyatest742"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Saumyatest742/PyLearningPromodeSir.git",
+    "accountId": "1b4c0d96-ae52-40c8-bb03-19f053f43d34"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -62,6 +68,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717381854279</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding to GIT">
+      <option name="closed" value="true" />
+      <created>1717431534513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717431534513</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding to GIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding to GIT" />
   </component>
 </project>
