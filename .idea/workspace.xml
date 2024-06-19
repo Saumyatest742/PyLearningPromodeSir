@@ -70,6 +70,10 @@
     "Python.Lab 021 (1).executor": "Debug",
     "Python.Lab 021.executor": "Run",
     "Python.Lab 022.executor": "Run",
+    "Python.Lab 023.executor": "Run",
+    "Python.Lab 024.executor": "Run",
+    "Python.Lab 025.executor": "Run",
+    "Python.Lab 026.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -79,6 +83,7 @@
     "Python.Task 002.executor": "Run",
     "Python.Task 003.executor": "Run",
     "Python.Task 004.executor": "Run",
+    "Python.Task 005.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -292,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718437849803</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Adding to GIT">
+      <option name="closed" value="true" />
+      <created>1718644964763</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718644964763</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
