@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0c546b4-88ab-44ce-bee5-9741a8106545" name="Changes" comment="Adding to GIT">
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_05/Lab 031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_05/Lab 032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_05/Lab 033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_05/Lab 034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 039.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +44,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/.venv/Practice_02/Lab 010.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/.venv/Practice_02/Lab004.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 039.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -74,6 +82,19 @@
     "Python.Lab 024.executor": "Run",
     "Python.Lab 025.executor": "Run",
     "Python.Lab 026.executor": "Run",
+    "Python.Lab 027.executor": "Run",
+    "Python.Lab 028.executor": "Run",
+    "Python.Lab 029.executor": "Run",
+    "Python.Lab 030.executor": "Run",
+    "Python.Lab 031.executor": "Run",
+    "Python.Lab 032.executor": "Run",
+    "Python.Lab 033.executor": "Run",
+    "Python.Lab 034.executor": "Run",
+    "Python.Lab 035.executor": "Run",
+    "Python.Lab 036.executor": "Run",
+    "Python.Lab 037.executor": "Run",
+    "Python.Lab 038.executor": "Run",
+    "Python.Lab 039.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -92,6 +113,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ex_03062024" />
       <recent name="$PROJECT_DIR$/.venv/Tasks" />
       <recent name="$PROJECT_DIR$/.venv/Task 003" />
     </key>
@@ -209,10 +231,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab 011" />
         <item itemvalue="Python.Task 003" />
         <item itemvalue="Python.Lab 021 (1)" />
         <item itemvalue="Python.Lab 021" />
-        <item itemvalue="Python.Lab 011" />
         <item itemvalue="Python.Lab 012" />
       </list>
     </recent_temporary>
@@ -305,7 +327,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718644964763</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adding to GIT">
+      <option name="closed" value="true" />
+      <created>1718765337250</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718765337250</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Adding to GIT">
+      <option name="closed" value="true" />
+      <created>1718765492006</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718765492006</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Adding to GIT">
+      <option name="closed" value="true" />
+      <created>1718820179861</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718820179861</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -316,7 +362,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/.venv/Practice_03/Lab 013.py</url>
+          <url>file://$PROJECT_DIR$/Ex_03062024/Practice_03/Lab 013.py</url>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
