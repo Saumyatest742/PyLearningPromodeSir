@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0c546b4-88ab-44ce-bee5-9741a8106545" name="Changes" comment="Adding to GIT">
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 045.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +93,8 @@
     "Python.Lab 040.executor": "Run",
     "Python.Lab 041.executor": "Run",
     "Python.Lab 042.executor": "Run",
+    "Python.Lab 043.executor": "Run",
+    "Python.Lab 045.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -363,7 +367,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719768196992</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adding to GIT">
+      <option name="closed" value="true" />
+      <created>1719769108295</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719769108295</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
