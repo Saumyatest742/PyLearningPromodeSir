@@ -5,10 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0c546b4-88ab-44ce-bee5-9741a8106545" name="Changes" comment="Adding to GIT">
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Practice_07/Lab 047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/Tasks/Task 006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_08_Jul_Web_Python/Practice_001/If_Else_Statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_08_Jul_Web_Python/Practice_001/New Lab 048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_08_Jul_Web_Python/Practice_001/Pr_001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_08_Jul_Web_Python/Practice_001/String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_08_Jul_Web_Python/Practice_001/Sum_of_two_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_08_Jul_Web_Python/Practice_001/Take_input_from_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_08_Jul_Web_Python/Practice_001/Task_Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_08_Jul_Web_Python/Practice_001/Type_Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_08_Jul_Web_Python/Practice_001/Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_08_Jul_Web_Python/Practice_001/calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 045.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_03062024/Practice_06(opps)/Lab 045.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,65 +63,75 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Assignment 001.executor": "Run",
-    "Python.Lab 005.executor": "Run",
-    "Python.Lab 006.executor": "Run",
-    "Python.Lab 007.executor": "Run",
-    "Python.Lab 008.executor": "Run",
-    "Python.Lab 009.executor": "Run",
-    "Python.Lab 010.executor": "Run",
-    "Python.Lab 011.executor": "Run",
-    "Python.Lab 012.executor": "Run",
-    "Python.Lab 014.executor": "Run",
-    "Python.Lab 015.executor": "Run",
-    "Python.Lab 016.executor": "Run",
-    "Python.Lab 017.executor": "Run",
-    "Python.Lab 018.executor": "Run",
-    "Python.Lab 019.executor": "Run",
-    "Python.Lab 020.executor": "Run",
-    "Python.Lab 021 (1).executor": "Debug",
-    "Python.Lab 021.executor": "Run",
-    "Python.Lab 022.executor": "Run",
-    "Python.Lab 023.executor": "Run",
-    "Python.Lab 024.executor": "Run",
-    "Python.Lab 025.executor": "Run",
-    "Python.Lab 026.executor": "Run",
-    "Python.Lab 027.executor": "Run",
-    "Python.Lab 028.executor": "Run",
-    "Python.Lab 029.executor": "Run",
-    "Python.Lab 030.executor": "Run",
-    "Python.Lab 031.executor": "Run",
-    "Python.Lab 032.executor": "Run",
-    "Python.Lab 033.executor": "Run",
-    "Python.Lab 034.executor": "Run",
-    "Python.Lab 035.executor": "Run",
-    "Python.Lab 036.executor": "Run",
-    "Python.Lab 037.executor": "Run",
-    "Python.Lab 038.executor": "Run",
-    "Python.Lab 039.executor": "Run",
-    "Python.Lab 040.executor": "Run",
-    "Python.Lab 041.executor": "Run",
-    "Python.Lab 042.executor": "Run",
-    "Python.Lab 043.executor": "Run",
-    "Python.Lab 045.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Task 001.executor": "Run",
-    "Python.Task 002.executor": "Run",
-    "Python.Task 003.executor": "Run",
-    "Python.Task 004.executor": "Run",
-    "Python.Task 005.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Assignment 001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.If_Else_Statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 021 (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab 021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 031.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 034.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 035.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 036.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 037.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 038.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 039.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 040.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 041.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 042.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 045.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab 046.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pr_001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sum_of_two_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Take_input_from_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Type_Conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Ex_03062024" />
@@ -118,7 +139,7 @@
       <recent name="$PROJECT_DIR$/.venv/Task 003" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Lab 011">
     <configuration name="Lab 011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearningPromodeSir" />
       <option name="ENV_FILES" value="" />
@@ -133,28 +154,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Practice_02/Lab 011.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab 012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearningPromodeSir" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/Practice_02" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Practice_02/Lab 012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,6 +206,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Pr_001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearningPromodeSir" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_08_Jul_Web_Python/Practice_001" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_08_Jul_Web_Python/Practice_001/Pr_001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Task 003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearningPromodeSir" />
       <option name="ENV_FILES" value="" />
@@ -232,17 +253,17 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Lab 011" />
+        <item itemvalue="Python.Pr_001" />
         <item itemvalue="Python.Task 003" />
         <item itemvalue="Python.Lab 021 (1)" />
         <item itemvalue="Python.Lab 021" />
-        <item itemvalue="Python.Lab 012" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
@@ -375,7 +396,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719769108295</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Adding to GIT">
+      <option name="closed" value="true" />
+      <created>1719942706537</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1719942706537</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
